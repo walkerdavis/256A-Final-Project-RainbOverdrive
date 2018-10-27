@@ -3,7 +3,7 @@
 ### Basic Audio Effect Plug-in using Faust DSP
 #### with help from Romain Michon, Tim O'brien, Mark Hertensteiner, and Mark Rau
 
-[Product Demo with surprise ending!!!](https://www.youtube.com/watch?v=TSeU4loi3wE)
+## [Product Demo with surprise ending!!!](https://www.youtube.com/watch?v=TSeU4loi3wE)
 
 ### *Disclaimer:* Although I this was the final project of Fall 2016's 256A course, my programming skills were still pretty terrible.  I had a great time putting together the remix/beat at the end of the product demo, I think it was a fresh compositional idea, please check it out.  -Walker 10/27/18
 
